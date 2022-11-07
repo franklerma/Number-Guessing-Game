@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\C#\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Owner\Desktop\C#\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Owner\Desktop\C#\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Owner\Desktop\C#\NumberGuesser\obj\Debug\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C#\NumberGuesser\obj\Debug\NumberGuesser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\C#\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Owner\Desktop\C#\NumberGuesser\obj\Debug\NumberGuesser.pdb
